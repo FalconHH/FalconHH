@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://github.com/FalconHH/AppTimeCounter"><img src="https://i.postimg.cc/9Q5dDCB4/apptimecounter.png" height="200px" align="left"></a>
-  <h1>AppTimeCounter</h1>
+  <h3 style="border-bottom: none; display: inline;">AppTimeCounter</h3>
   ⌛ A simple and one file code that can track your selected application countdown in background.
   <br><br>
   <p>
