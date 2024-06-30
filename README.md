@@ -1,24 +1,40 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub Profile
+<img src="https://i.postimg.cc/7Y0M9ZmH/HEADERPROFILE.png">  
 
-### My name is Huseyn "FalconHH" Hasanli
+<p align="center">
 
-* 🌍  I'm based in Azerbaijan
-* 🖥️  See my [company](http://gammanetwork.net/eng/developers)
-* ✉️  You can contact me at [huseyn@gammanetwork.net](mailto:huseyn@gammanetwork.net)
 
-[![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)](https://www.python.org/)
-[![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)](https://www.postgresql.org/)
-[![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)](https://www.sqlite.org/)
-![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) 
-![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) 
-[![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)](https://code.visualstudio.com/)
-[![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)](https://visualstudio.microsoft.com/)
-![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
-![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
-![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg) 
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://gammabot.xyz/support)
-[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/falconhh02/) 
-[![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg)](https://open.spotify.com/user/w31qyejt4qjfc2krbcrwura8g) 
+  
+  <a href="https://github.com/FalconHH">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+  </a>
 
-### Buy Me a Coffee
-[![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)](https://ko-fi.com/falconhh)
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+  <img src="">
+  <img src="">
+  
+  
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/ziadOUA/zCard"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="left"></a>
+  <h1>AppTimeCounter</h1>
+  ⌛ A simple and one file code that can track your selected application countdown in background.
+  <br><br>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
+  </p>
+</p>
+
+<br>
+
+
