@@ -26,7 +26,7 @@ A little information about me:
 ![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg) 
 
 ### My Social Accounts
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)]([https://discord.com](https://gammabot.xyz/support)) 
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)]((https://gammabot.xyz/support)) 
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/falconhh02/) 
 [![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg)](https://open.spotify.com/user/w31qyejt4qjfc2krbcrwura8g) 
 
