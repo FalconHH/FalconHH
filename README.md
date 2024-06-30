@@ -37,4 +37,10 @@
 
 <br>
 
+<p align="center">
 
+  <a href="https://ko-fi.com/falconhh">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg">
+  </a>
+
+</p>
