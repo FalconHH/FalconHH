@@ -12,18 +12,19 @@ A little information about me:
 * ✉️  You can contact me at [huseyn@gammanetwork.net](mailto:huseyn@gammanetwork.net)
 
 ### My Programming Skills
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) 
-![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) 
-![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg) 
+[![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)](https://www.python.org/)
+[![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)](https://www.postgresql.org/)
+[![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)](https://www.sqlite.org/)
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) 
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) 
 
 ### Tools that I Mostly Use
-![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) 
-![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg) 
-![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg) 
+[![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)](https://code.visualstudio.com/)
+[![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)](https://visualstudio.microsoft.com/)
+![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
+![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
 ![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg) 
-![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg) 
+
 
 ### My Social Accounts
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://gammabot.xyz/support)
@@ -31,4 +32,4 @@ A little information about me:
 [![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg)](https://open.spotify.com/user/w31qyejt4qjfc2krbcrwura8g) 
 
 ### Buy Me a Coffee
-![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)
+[![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)](https://ko-fi.com/falconhh)
