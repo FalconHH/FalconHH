@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://gammanetwork.net/eng/developers](https://gammanetwork.net/eng/developers)
 
 - 📫 How to reach me **huseyn@gammanetwork.net**
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
