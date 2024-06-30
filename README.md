@@ -2,7 +2,6 @@
 
 ### My name is Huseyn "FalconHH" Hasanli
 
-A little information about me:
 * 🌍  I'm based in Azerbaijan
 * 🖥️  See my [company](http://gammanetwork.net/eng/developers)
 * ✉️  You can contact me at [huseyn@gammanetwork.net](mailto:huseyn@gammanetwork.net)
