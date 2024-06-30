@@ -1,7 +1,3 @@
-Certainly! Here's the updated version with clickable social account links:
-
----
-
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub Profile
 
 ### My name is Huseyn "FalconHH" Hasanli
