@@ -1,25 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub Profile
-=================================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub Profile
 
-Python Developer
-----------------
+### My name is Huseyn "FalconHH" Hasanli
 
+A little information about me:
 * 🌍  I'm based in Azerbaijan
-* 🖥️  See my portfolio at [My Company](http://gammanetwork.net/eng/developers)
+* 🖥️  See my [company](http://gammanetwork.net/eng/developers)
 * ✉️  You can contact me at [huseyn@gammanetwork.net](mailto:huseyn@gammanetwork.net)
 
-### Skills
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"> 
+### My Programming Skills
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) 
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) 
+![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg) 
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) 
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) 
 
-### Tools 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg">
+### Tools that I Mostly Use
+![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) 
+![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg) 
+![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg) 
+![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg) 
+![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg) 
 
-### Social
+### My Social Accounts
+![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg) 
+![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg) 
+![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg) 
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg">
-
-
-
-
-### Buy me a coffee
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg">
+### Buy Me a Coffee
+![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)
