@@ -1,3 +1,7 @@
+Certainly! Here's the updated version with clickable social account links:
+
+---
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub Profile
 
 ### My name is Huseyn "FalconHH" Hasanli
@@ -22,9 +26,9 @@ A little information about me:
 ![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg) 
 
 ### My Social Accounts
-![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg) 
-![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg) 
-![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg) 
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)]([https://discord.com](https://gammabot.xyz/support)) 
+[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/falconhh02/) 
+[![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify3.svg)](https://open.spotify.com/user/w31qyejt4qjfc2krbcrwura8g) 
 
 ### Buy Me a Coffee
 ![Buy Me a Coffee](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)
