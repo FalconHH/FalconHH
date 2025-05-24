@@ -13,15 +13,6 @@
 
 <h1 align="center">Projects I'm Currently Working On</h1>
 
-<p>
-  <a href="https://github.com/FalconHH/AppTimeCounter"><img src="https://i.postimg.cc/9Q5dDCB4/apptimecounter.png" height="200px" align="left"></a>
-  <h3 style="border-bottom: none; display: inline;">Gamma Counter</h3>
-  ⌛ A simple and one file code that can track your selected application countdown in background.
-  <br><br>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
-  </p>
-</p>
 
 <br>
 
